@@ -9,7 +9,7 @@ import (
 
 	"github.com/dchest/blake2b"
 	"github.com/ethereum/go-ethereum/crypto/bn256/cloudflare"
-	gosha3 "github.com/ethereum/go-ethereum/crypto/sha3"
+	gosha3 "github.com/razor-network/go-sha3"
 	"golang.org/x/crypto/sha3"
 )
 
