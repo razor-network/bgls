@@ -4,7 +4,7 @@
 package bgls
 
 import (
-	. "github.com/Project-Arda/bgls/curves" // nolint: golint
+	. "github.com/razor-network/bgls/curves" // nolint: golint
 	"math/big"
 	"strconv"
 )

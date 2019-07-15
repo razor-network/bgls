@@ -9,7 +9,7 @@ import (
 	mathrand "math/rand"
 	"testing"
 
-	. "github.com/Project-Arda/bgls/curves"
+	. "github.com/razor-network/bgls/curves"
 	"github.com/stretchr/testify/assert"
 )
 
