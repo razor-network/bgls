@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"os"
 	"math/big"
-	. "./bgls"
+  "github.com/razor-network/bgls/bgls"
 )
 
 func bls() {
